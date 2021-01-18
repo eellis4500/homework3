@@ -9,3 +9,5 @@ As a side note, this is my first website that is completely of it's own code and
 I've included images of the site and it's 3 pages and what the look like on large format screens.
 
 A link to the site can be found here: https://eellis4500.github.io/
+
+![](assets/screenshot.jpg)
