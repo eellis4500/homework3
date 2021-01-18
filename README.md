@@ -1,13 +1,7 @@
-IT'S ALL ABOUT ME - my first personal website
+One-stop shop password generating website.
 
-Requirements: A website that has the following functional elements: A navbar, A reponsive layout, and Responsive images.
+This site works pretty flawlessly, and is a fantastic way of creating a auto-generated password. You can select a length between 8 and 128 characters in length. You can also select how difficult you want your password to be, by including special characters along with the standard numbers and upper and lowercase letters.
 
-I've had alot of growth working on this project, and really feel like this has helped my CSS and HTML come on in force. Additionally bootstrap has been mindblowing, and the different elements and styles and how they can be incorporated makes it one of those tools you'll use for life.
-
-As a side note, this is my first website that is completely of it's own code and design, and is not perfect, but represents the best I could do without needing outside help. 
-
-I've included images of the site and it's 3 pages and what the look like on large format screens.
-
-A link to the site can be found here: https://eellis4500.github.io/
-
+Below is a image of what the site looks like. You click the button and prompts will ask you for the paramters you want for your password. The randomized password will appear in the field.
 ![](assets/screenshot.jpg)
+The finished website can be found here: https://eellis4500.github.io/homework3/
